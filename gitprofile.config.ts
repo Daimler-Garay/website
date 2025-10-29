@@ -66,7 +66,7 @@ const CONFIG = {
   },
   skills: [
     'Python',
-    'Typescript'
+    'Typescript',
     'MySQL',
     'PostgreSQL',
     'Git',
